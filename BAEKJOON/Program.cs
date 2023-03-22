@@ -10,6 +10,7 @@ namespace BAEKJOON
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
